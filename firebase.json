@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "/Users/ayaanjainstu/Coding/Alternate Tech_WebApp",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "functions": {
+    "source": "functions"
+  }
+}

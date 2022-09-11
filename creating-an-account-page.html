@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <!--<<link rel="shortcut icon" type="image/png" href=""/>-->
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/creating-an-account-page.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <title>STEX</title>
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="creating-an-account-page" />
+    <div class="container-center-horizontal">
+      <div class="creating-an-account-page screen">
+        <div class="overlap-group">
+          <div class="create-an-account proximanova-bold-pickled-bluewood-50px">Create an account</div>
+          <div class="flex-row">
+            <div class="already-have-an-account proximanova-medium-pickled-bluewood-30px">Already have an account?</div>
+            <div class="sign-in proximanova-medium-royal-blue-30px">Sign In</div>
+          </div>
+          <div class="sign-up-with-google">Sign Up With Google</div>
+          <div class="overlap-group1">
+            <img class="google" src="img/google@1x.png" />
+            <div class="ellipse-210"></div>
+          </div>
+          <div class="flex-row-1">
+            <div class="overlap-group3">
+              <div class="ellipse-209"></div>
+              <img class="line-10" src="img/line-10@1x.png" />
+            </div>
+            <div class="or proximanova-medium-pickled-bluewood-25px">Or</div>
+            <img class="line-11" src="img/line-11@1x.png" />
+          </div>
+          <div class="email-address proximanova-medium-pickled-bluewood-25px">Email Address</div>
+          <div class="placeholderpassword"><input class="heighttext" type="text" id="myInput1"></div>
+          <img class="line-9" src="img/line-9@1x.png" />
+          <div class="st-name-container proximanova-medium-pickled-bluewood-25px">
+            <div class="first-name">First Name</div>
+            <div class="last-name">Last Name</div>
+          </div>
+          <div class="line-container">
+            <img class="line-13" src="img/line-13@1x.png" />
+            <img class="line-14" src="img/line-13@1x.png" />
+          </div>
+          <div class="password proximanova-medium-pickled-bluewood-25px">Password</div>
+          <div class="placeholderpassword"><input class="heighttext" type="text" id="myInput"></div>
+          <div><input class="showpassword" type="checkbox" onclick="myFunction()">Show Password</div>
+          <img class="line-15" src="img/line-9@1x.png" />
+          <div class="flex-row-2">
+            <p class="by-clicking-create-a">
+              <span class="proximanova-medium-pickled-bluewood-15px"
+                >By clicking Create account, I agree that I have read and <br />accepted the </span
+              ><span class="span1">Terms of Use</span>
+            </p>
+            <div class="overlap-group2">
+              <div class="create-account proximanova-medium-white-25px">Create Account</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+<script>
+    function myFunction() {
+    var x = document.getElementById("myInput");
+    if (x.type === "password") {
+      x.type = "text";
+    } else {
+      x.type = "password";
+    }
+  }
+</script>
