@@ -1,0 +1,838 @@
+/* screen - experiments-filter-screen-2 */
+
+.experiments-filter-screen-2 {
+  align-items: flex-end;
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 1856px;
+  position: relative;
+  width: 1920px;
+}
+
+.experiments-filter-screen-2 .discover {
+  left: 248px;
+  letter-spacing: 0;
+  line-height: 175px;
+  position: fixed;
+  top: -30px;
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.experiments-filter-screen-2 .rectangle-84 {
+  background: linear-gradient(255.82deg, #453dc6 21.29%, #231f63 146.73%);
+  border: 1px solid;
+  border-color: var(--eerie-black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 116px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 2;
+}
+
+.experiments-filter-screen-2 .rectangle-29 {
+  background-color: var(--cosmic-cobalt);
+  height: 33px;
+  left: 373px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 8;
+}
+
+.experiments-filter-screen-2 .rectangle-95 {
+  background-color: var(--governor-bay);
+  height: 33px;
+  left: 760px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 9;
+}
+
+.experiments-filter-screen-2 .group-18 {
+  display: flex;
+  height: 77px;
+  left: 88px;
+  position: fixed;
+  top: 18px;
+  width: 42px;
+  z-index: 12;
+}
+
+.experiments-filter-screen-2 .group-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 42.15px;
+}
+
+.experiments-filter-screen-2 .group-container {
+  height: 77px;
+  position: relative;
+  width: 42px;
+}
+
+.experiments-filter-screen-2 .group-4 {
+  background-image: url(../img/group-3-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 8px;
+  position: absolute;
+  top: 45px;
+  width: 29px;
+}
+
+.experiments-filter-screen-2 .group-6 {
+  background-image: url(../img/group-5-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 7px;
+  position: absolute;
+  top: 27px;
+  width: 29px;
+}
+
+.experiments-filter-screen-2 .group-8 {
+  background-image: url(../img/group-7-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.experiments-filter-screen-2 .group-10 {
+  background-image: url(../img/group-9-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.experiments-filter-screen-2 .group-12 {
+  background-image: url(../img/group-11-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 16px;
+}
+
+.experiments-filter-screen-2 .group-14 {
+  background-image: url(../img/group-13-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 26px;
+  position: absolute;
+  top: 42px;
+  width: 16px;
+}
+
+.experiments-filter-screen-2 .group-16 {
+  background-image: url(../img/group-15-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 16px;
+}
+
+.experiments-filter-screen-2 .undraw_male_avatar_323b-2 {
+  background-image: url(../img/path-373-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 76px;
+  left: 1775px;
+  position: fixed;
+  top: 20px;
+  width: 76px;
+  z-index: 10;
+}
+
+.experiments-filter-screen-2 .overlap-group {
+  height: 64px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 65px;
+}
+
+.experiments-filter-screen-2 .path-374 {
+  height: 51px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.experiments-filter-screen-2 .path-375 {
+  height: 18px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 7px;
+}
+
+.experiments-filter-screen-2 .ellipse-142 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 36px;
+  width: 7px;
+}
+
+.experiments-filter-screen-2 .path-376 {
+  height: 15px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.experiments-filter-screen-2 .path-377 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 14px;
+}
+
+.experiments-filter-screen-2 .path-378 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 10px;
+}
+
+.experiments-filter-screen-2 .ellipse-143 {
+  background-color: var(--mischka);
+  border-radius: 14.73px;
+  height: 29px;
+  left: 16px;
+  position: absolute;
+  top: 5px;
+  width: 29px;
+}
+
+.experiments-filter-screen-2 .path-379 {
+  height: 19px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 21px;
+}
+
+.experiments-filter-screen-2 .path-380 {
+  height: 30px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 59px;
+}
+
+.experiments-filter-screen-2 .path-381 {
+  height: 27px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.experiments-filter-screen-2 .path-382 {
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 12px;
+}
+
+.experiments-filter-screen-2 .path-383 {
+  height: 11px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 6px;
+}
+
+.experiments-filter-screen-2 .ellipse-141 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 8px;
+  opacity: 0.2;
+  position: absolute;
+  top: 18px;
+  width: 7px;
+}
+
+.experiments-filter-screen-2 .component-1-19 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 530px;
+  position: fixed;
+  top: 45px;
+  transition: all 0.2s ease;
+  width: 249px;
+  z-index: 4;
+}
+
+.experiments-filter-screen-2 .component-1-19:hover {
+  background-color: ##C78B8B
+}
+
+.experiments-filter-screen-2 .your-experiments {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 249px;
+}
+
+.experiments-filter-screen-2 .component-2-22 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 930px;
+  position: fixed;
+  top: 45px;
+  width: 184px;
+  z-index: 5;
+}
+
+.experiments-filter-screen-2 .leaderboard {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.experiments-filter-screen-2 .polygon-5 {
+  height: 15px;
+  left: 381px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 6;
+}
+
+.experiments-filter-screen-2 .polygon-8 {
+  height: 15px;
+  left: 783px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 7;
+}
+
+.experiments-filter-screen-2 .user123 {
+  left: 1575px;
+  letter-spacing: 0;
+  line-height: 93px;
+  position: fixed;
+  top: 104px;
+  white-space: nowrap;
+  z-index: 13;
+}
+
+.experiments-filter-screen-2 .overlap-group4 {
+  align-self: center;
+  height: 774px;
+  margin-left: 38.55px;
+  margin-top: 105px;
+  position: relative;
+  width: 1809px;
+  z-index: 1;
+}
+
+.experiments-filter-screen-2 .experiments {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 114px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .overlap-group2 {
+  height: 668px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 1795px;
+}
+
+.experiments-filter-screen-2 .in-progress {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .completed-experiments {
+  left: 402px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: 1701px;
+}
+
+.experiments-filter-screen-2 .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 352px;
+  width: 1701px;
+}
+
+.experiments-filter-screen-2 .rectangle-80 {
+  background-color: var(--bittersweet-shimmer);
+  border: 1px solid;
+  border-radius: 8px;
+  height: 11px;
+  left: 68px;
+  position: absolute;
+  top: 347px;
+  width: 173px;
+}
+
+.experiments-filter-screen-2 .last-updated {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .polygon-7 {
+  height: 15px;
+  left: 1556px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 26px;
+}
+
+.experiments-filter-screen-2 .rectangle-81 {
+  background-color: var(--mirage);
+  height: 33px;
+  left: 1552px;
+  position: absolute;
+  top: 278px;
+  width: 71px;
+}
+
+.experiments-filter-screen-2 .rectangle-82 {
+  background-color: var(--white);
+  border-radius: 13px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 204px;
+  left: 1336px;
+  position: absolute;
+  top: 353px;
+  width: 246px;
+}
+
+.experiments-filter-screen-2 .last-updated-1 {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 330px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .biology {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 379px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .physics {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 428px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .chemistry {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 477px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .rectangle-140 {
+  background-color: var(--tangaroa);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 12px;
+  height: 668px;
+  left: 1335px;
+  position: absolute;
+  top: 0;
+  width: 460px;
+}
+
+.experiments-filter-screen-2 .line-16 {
+  height: 1px;
+  left: 1335px;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 460px;
+}
+
+.experiments-filter-screen-2 .line-17 {
+  height: 1px;
+  left: 1335px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 460px;
+}
+
+.experiments-filter-screen-2 .overlap-group1 {
+  height: 302px;
+  left: 2px;
+  position: absolute;
+  top: 472px;
+  width: 481px;
+}
+
+.experiments-filter-screen-2 .rectangle-28 {
+  background-color: var(--outer-space);
+  border-radius: 28px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 282px;
+  left: 13px;
+  position: absolute;
+  top: 15px;
+  width: 463px;
+}
+
+.experiments-filter-screen-2 .rectangle-119 {
+  background-color: var(--big-stone);
+  border-radius: 28px;
+  box-shadow: 0px 6px 6px #00000029;
+  height: 282px;
+  left: 19px;
+  position: absolute;
+  top: 20px;
+  width: 463px;
+}
+
+.experiments-filter-screen-2 .rectangle-120 {
+  background-color: var(--sunglo);
+  border-radius: 7px 7px 7px 0px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 101px;
+}
+
+.experiments-filter-screen-2 .new {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 83px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .x {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 111px;
+  position: absolute;
+  top: 46px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .rectangle-110 {
+  background-color: var(--lilac-luster);
+  border-radius: 23px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 27px;
+  left: 115px;
+  position: absolute;
+  top: 30px;
+  width: 112px;
+}
+
+.experiments-filter-screen-2 .place {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .investigation-on-how {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .rectangle-121 {
+  background-color: var(--ronchi);
+  border-radius: 12px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 28px;
+  left: 28px;
+  position: absolute;
+  top: 161px;
+  width: 131px;
+}
+
+.experiments-filter-screen-2 .not-explored {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .rectangle-34 {
+  background: linear-gradient(225.42deg, #ffbef8 5.43%, #312d73 198.6%);
+  border-radius: 50px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 50px;
+  left: 28px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  top: 211px;
+  width: 176px;
+}
+
+.experiments-filter-screen-2 .open {
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 212px;
+  white-space: nowrap;
+}
+
+.experiments-filter-screen-2 .scroll-group-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.experiments-filter-screen-2 .scroll-group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 15px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 536px;
+  transform: rotate(180deg);
+}
+
+.experiments-filter-screen-2 .polygon-9 {
+  height: 28px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 25px;
+}
+
+.experiments-filter-screen-2 .points-63 {
+  left: 1592px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 178px;
+  white-space: nowrap;
+  z-index: 14;
+}
+
+.experiments-filter-screen-2 .user-settings {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 265px;
+  white-space: nowrap;
+  z-index: 15;
+}
+
+.experiments-filter-screen-2 .account-settings {
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 310px;
+  white-space: nowrap;
+  z-index: 16;
+}
+
+.experiments-filter-screen-2 .profile {
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 371px;
+  white-space: nowrap;
+  z-index: 19;
+}
+
+.experiments-filter-screen-2 .user-progress {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 471px;
+  white-space: nowrap;
+  z-index: 18;
+}
+
+.experiments-filter-screen-2 .experiments-1 {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 516px;
+  white-space: nowrap;
+  z-index: 17;
+}
+
+.experiments-filter-screen-2 .topics {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 571px;
+  white-space: nowrap;
+  z-index: 22;
+}
+
+.experiments-filter-screen-2 .points {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 626px;
+  white-space: nowrap;
+  z-index: 21;
+}
+
+.experiments-filter-screen-2 .leaderboard-1 {
+  cursor: pointer;
+  left: 1459px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 681px;
+  white-space: nowrap;
+  z-index: 20;
+}
+
+.experiments-filter-screen-2 .line-container {
+  align-self: center;
+  background-image: url(../img/path-553-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 86px;
+  margin-right: 44.0px;
+  margin-top: 81px;
+  position: relative;
+  width: 86px;
+  z-index: 11;
+}
+
+.experiments-filter-screen-2 .line-3 {
+  height: 52px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.experiments-filter-screen-2 .line-4 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 52px;
+}

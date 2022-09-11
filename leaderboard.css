@@ -1,0 +1,929 @@
+/* screen - leaderboard */
+
+.leaderboard {
+  align-items: flex-end;
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 1432px;
+  position: relative;
+  width: 1920px;
+}
+
+.leaderboard .discover {
+  cursor: pointer;
+  left: 248px;
+  letter-spacing: 0;
+  line-height: 175px;
+  position: fixed;
+  top: -30px;
+  white-space: nowrap;
+  z-index: 16;
+}
+
+.leaderboard .rectangle-84 {
+  background: linear-gradient(255.82deg, #453dc6 21.29%, #231f63 146.73%);
+  border: 1px solid;
+  border-color: var(--eerie-black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 116px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 15;
+}
+
+.leaderboard .rectangle-29 {
+  background-color: var(--cosmic-cobalt);
+  height: 33px;
+  left: 373px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 21;
+}
+
+.leaderboard .rectangle-95 {
+  background-color: var(--governor-bay);
+  height: 33px;
+  left: 760px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 22;
+}
+
+.leaderboard .group-18 {
+  display: flex;
+  height: 77px;
+  left: 88px;
+  position: fixed;
+  top: 18px;
+  width: 42px;
+  z-index: 24;
+}
+
+.leaderboard .group-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 42.15px;
+}
+
+.leaderboard .group-container {
+  height: 77px;
+  position: relative;
+  width: 42px;
+}
+
+.leaderboard .group-4 {
+  background-image: url(../img/group-3-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 8px;
+  position: absolute;
+  top: 45px;
+  width: 29px;
+}
+
+.leaderboard .group-6 {
+  background-image: url(../img/group-5-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 7px;
+  position: absolute;
+  top: 27px;
+  width: 29px;
+}
+
+.leaderboard .group-8 {
+  background-image: url(../img/group-7-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.leaderboard .group-10 {
+  background-image: url(../img/group-9-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.leaderboard .group-12 {
+  background-image: url(../img/group-11-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 16px;
+}
+
+.leaderboard .group-14 {
+  background-image: url(../img/group-13-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 26px;
+  position: absolute;
+  top: 42px;
+  width: 16px;
+}
+
+.leaderboard .group-16 {
+  background-image: url(../img/group-15-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 16px;
+}
+
+.leaderboard .undraw_male_avatar_323b-2 {
+  background-image: url(../img/path-373-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 76px;
+  left: 1775px;
+  position: fixed;
+  top: 20px;
+  width: 76px;
+  z-index: 23;
+}
+
+.leaderboard .overlap-group1 {
+  height: 64px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 65px;
+}
+
+.leaderboard .path-374 {
+  height: 51px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.leaderboard .path-375 {
+  height: 18px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 7px;
+}
+
+.leaderboard .ellipse-142 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 36px;
+  width: 7px;
+}
+
+.leaderboard .path-376 {
+  height: 15px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.leaderboard .path-377 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 14px;
+}
+
+.leaderboard .path-378 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 10px;
+}
+
+.leaderboard .ellipse-143 {
+  background-color: var(--mischka);
+  border-radius: 14.73px;
+  height: 29px;
+  left: 16px;
+  position: absolute;
+  top: 5px;
+  width: 29px;
+}
+
+.leaderboard .path-379 {
+  height: 19px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 21px;
+}
+
+.leaderboard .path-380 {
+  height: 30px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 59px;
+}
+
+.leaderboard .path-381 {
+  height: 27px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.leaderboard .path-382 {
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 12px;
+}
+
+.leaderboard .path-383 {
+  height: 11px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 6px;
+}
+
+.leaderboard .ellipse-141 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 8px;
+  opacity: 0.2;
+  position: absolute;
+  top: 18px;
+  width: 7px;
+}
+
+.leaderboard .component-1-14 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 530px;
+  position: fixed;
+  top: 45px;
+  transition: all 0.2s ease;
+  width: 249px;
+  z-index: 17;
+}
+
+.leaderboard .component-1-14:hover {
+  background-color: #C78B8B
+}
+
+.leaderboard .your-experiments {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 249px;
+}
+
+.leaderboard .component-2-14 {
+  display: flex;
+  height: 30px;
+  left: 930px;
+  position: fixed;
+  top: 45px;
+  width: 184px;
+  z-index: 18;
+}
+
+.leaderboard .leaderboard-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.leaderboard .polygon-5 {
+  height: 15px;
+  left: 381px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 19;
+}
+
+.leaderboard .polygon-8 {
+  height: 15px;
+  left: 783px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 20;
+}
+
+.leaderboard .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 92px;
+  margin-left: 34.0px;
+  margin-top: 230px;
+  min-width: 1834px;
+  z-index: 1;
+}
+
+.leaderboard .leaderboard-2 {
+  align-self: flex-start;
+  color: var(--mercury-2);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 62px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 95px;
+  min-height: 77px;
+  min-width: 363px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--big-stone);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-left: 141px;
+  min-width: 208px;
+  padding: 2.5px 26px;
+}
+
+.leaderboard .position {
+  letter-spacing: 0;
+  line-height: 77px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--big-stone);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 81px;
+  margin-left: 12px;
+  min-width: 717px;
+  padding: 2.5px 33px;
+}
+
+.leaderboard .user {
+  letter-spacing: 0;
+  line-height: 77px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--big-stone);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 81px;
+  margin-left: 8px;
+  min-width: 385px;
+  padding: 1.5px 29px;
+}
+
+.leaderboard .points {
+  letter-spacing: 0;
+  line-height: 77px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.leaderboard .user123 {
+  left: 203px;
+  letter-spacing: 0;
+  line-height: 93px;
+  position: fixed;
+  top: 352px;
+  white-space: nowrap;
+  z-index: 13;
+}
+
+.leaderboard .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 31px;
+  min-width: 1330px;
+  padding: 4px 26px;
+  z-index: 3;
+}
+
+.leaderboard .rectangle-92 {
+  align-self: center;
+  background-color: var(--cream-can);
+  border-radius: 19px;
+  height: 63px;
+  margin-top: 1.0px;
+  width: 63px;
+}
+
+.leaderboard .name {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 164px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+
+.leaderboard .address {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 544px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+
+.leaderboard .undraw_male_avatar_323b-2-1 {
+  background-image: url(../img/path-373-1x-png-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 119px;
+  left: 60px;
+  position: fixed;
+  top: 376px;
+  width: 119px;
+  z-index: 2;
+}
+
+.leaderboard .overlap-group {
+  height: 101px;
+  left: 12px;
+  position: absolute;
+  top: 18px;
+  width: 102px;
+}
+
+.leaderboard .path-374-1 {
+  height: 80px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 25px;
+}
+
+.leaderboard .path-375-1 {
+  height: 29px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 11px;
+}
+
+.leaderboard .ellipse-142-1 {
+  background-color: var(--black);
+  border-radius: 5.28px;
+  height: 11px;
+  left: 3px;
+  opacity: 0.2;
+  position: absolute;
+  top: 56px;
+  width: 11px;
+}
+
+.leaderboard .path-376-1 {
+  height: 23px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 7px;
+}
+
+.leaderboard .path-377-1 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 22px;
+}
+
+.leaderboard .path-378-1 {
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 15px;
+}
+
+.leaderboard .ellipse-143-1 {
+  background-color: var(--mischka);
+  border-radius: 23.14px;
+  height: 46px;
+  left: 24px;
+  position: absolute;
+  top: 8px;
+  width: 46px;
+}
+
+.leaderboard .path-379-1 {
+  height: 30px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 33px;
+}
+
+.leaderboard .path-380-1 {
+  height: 48px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 92px;
+}
+
+.leaderboard .path-381-1 {
+  height: 43px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.leaderboard .path-382-1 {
+  height: 15px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 18px;
+}
+
+.leaderboard .path-383-1 {
+  height: 17px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 10px;
+}
+
+.leaderboard .ellipse-141-1 {
+  background-color: var(--black);
+  border-radius: 5.28px;
+  height: 11px;
+  left: 13px;
+  opacity: 0.2;
+  position: absolute;
+  top: 28px;
+  width: 11px;
+}
+
+.leaderboard .points-63rank-69 {
+  left: 203px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 434px;
+  white-space: nowrap;
+  z-index: 14;
+}
+
+.leaderboard .overlap-group14 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 83px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 3px 26px;
+  z-index: 5;
+}
+
+.leaderboard .rectangle-93 {
+  align-self: center;
+  background-color: var(--gray-nickel);
+  border-radius: 19px;
+  height: 63px;
+  margin-top: 2.0px;
+  width: 63px;
+}
+
+.leaderboard .address-1 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 544px;
+  margin-top: 1px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 3px 26px;
+  z-index: 7;
+}
+
+.leaderboard .rectangle-94 {
+  align-self: center;
+  background-color: var(--sepia-skin);
+  border-radius: 19px;
+  height: 64px;
+  width: 64px;
+}
+
+.leaderboard .name-2 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 163px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 0 33px;
+  z-index: 9;
+}
+
+.leaderboard .x4th {
+  letter-spacing: 0;
+  line-height: 76px;
+  min-height: 30px;
+  min-width: 40px;
+  white-space: nowrap;
+}
+
+.leaderboard .name-3 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 180px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+
+.leaderboard .address-2 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 544px;
+  margin-top: 3px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 3px 33px;
+  z-index: 11;
+}
+
+.leaderboard .x5th {
+  letter-spacing: 0;
+  line-height: 76px;
+  min-height: 30px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.leaderboard .name-1 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 179px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 23px;
+  min-width: 1330px;
+  padding: 3px 33px;
+  z-index: 4;
+}
+
+.leaderboard .x6th {
+  letter-spacing: 0;
+  line-height: 76px;
+  min-height: 30px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.leaderboard .name-4 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 179px;
+  margin-top: 1px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 83px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 3px 33px;
+  z-index: 6;
+}
+
+.leaderboard .x7th {
+  letter-spacing: 0;
+  line-height: 76px;
+  margin-top: 1px;
+  min-height: 30px;
+  min-width: 39px;
+  white-space: nowrap;
+}
+
+.leaderboard .name-5 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 181px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 3px 33px;
+  z-index: 8;
+}
+
+.leaderboard .x8th {
+  letter-spacing: 0;
+  line-height: 76px;
+  min-height: 30px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 0 33px;
+  z-index: 10;
+}
+
+.leaderboard .x9th {
+  letter-spacing: 0;
+  line-height: 76px;
+  min-height: 30px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.leaderboard .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--chambray);
+  border-radius: 38px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 82px;
+  margin-right: 26px;
+  margin-top: 18px;
+  min-width: 1330px;
+  padding: 3px 33px;
+  z-index: 12;
+}
+
+.leaderboard .x10th {
+  letter-spacing: 0;
+  line-height: 76px;
+  min-height: 30px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+
+.leaderboard .name-6 {
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-left: 170px;
+  min-height: 39px;
+  min-width: 177px;
+  white-space: nowrap;
+}
+#container {
+	width: 600px;
+	height: auto;
+  color: white;
+}

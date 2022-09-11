@@ -1,0 +1,660 @@
+/* screen - assignment-final-points-screen-1 */
+
+.assignment-final-points-screen-1 {
+  background-color: var(--mirage);
+  height: 1079px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.assignment-final-points-screen-1 .rectangle-107 {
+  background-color: var(--cello);
+  height: 1019px;
+  left: 0;
+  position: fixed;
+  top: 61px;
+  width: 106px;
+}
+
+.assignment-final-points-screen-1 .rectangle-109 {
+  background-color: var(--black-2);
+  height: 106px;
+  left: 6px;
+  position: fixed;
+  top: 378px;
+  width: 102px;
+}
+
+.assignment-final-points-screen-1 .undraw_home_settings_re_pkya {
+  align-items: center;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 19px;
+  min-width: 108px;
+  position: fixed;
+  top: 99px;
+}
+
+.assignment-final-points-screen-1 .path-container {
+  align-self: flex-end;
+  height: 48px;
+  margin-bottom: -0.18px;
+  position: relative;
+  width: 74px;
+}
+
+.assignment-final-points-screen-1 .path-574 {
+  height: 19px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .path-575 {
+  height: 47px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.assignment-final-points-screen-1 .path-576 {
+  height: 46px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 29px;
+}
+
+.assignment-final-points-screen-1 .path-577 {
+  height: 6px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .path-578 {
+  height: 5px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .path-579 {
+  height: 6px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .path-580 {
+  height: 5px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .path-581 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 74px;
+}
+
+.assignment-final-points-screen-1 .path-22 {
+  height: 1px;
+  margin-bottom: 3.76px;
+  margin-left: 33px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.assignment-final-points-screen-1 .rectangle-108 {
+  background-color: var(--blue-marguerite);
+  border: 1px solid;
+  height: 106px;
+  left: 0;
+  position: fixed;
+  top: 378px;
+  width: 8px;
+}
+
+.assignment-final-points-screen-1 .undraw_online_video_re_fou2 {
+  align-items: flex-end;
+  background-color: var(--blue-marguerite);
+  border-radius: 24.49px;
+  display: flex;
+  height: 49px;
+  justify-content: flex-end;
+  left: 29px;
+  min-width: 49px;
+  padding: 13.9px 12.0px;
+  position: fixed;
+  top: 201px;
+}
+
+.assignment-final-points-screen-1 .icon-play {
+  height: 21px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.assignment-final-points-screen-1 .line-5 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 276px;
+  width: 106px;
+}
+
+.assignment-final-points-screen-1 .line-8 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 174px;
+  width: 106px;
+}
+
+.assignment-final-points-screen-1 .undraw_documents_re_isxv {
+  align-items: flex-start;
+  background-image: url(../img/path-641-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  left: 27px;
+  min-height: 66px;
+  padding: 0.0px 0;
+  position: fixed;
+  top: 294px;
+  width: 51px;
+}
+
+.assignment-final-points-screen-1 .path-642 {
+  align-self: flex-end;
+  height: 7px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.assignment-final-points-screen-1 .path-64 {
+  height: 3px;
+  margin-left: 4.58px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.assignment-final-points-screen-1 .path-64-1 {
+  height: 3px;
+  margin-left: 4.58px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.assignment-final-points-screen-1 .path-647 {
+  height: 20px;
+  margin-left: 4.48px;
+  margin-top: 6px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.assignment-final-points-screen-1 .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 378px;
+  width: 106px;
+}
+
+.assignment-final-points-screen-1 .line-7 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 484px;
+  width: 106px;
+}
+
+.assignment-final-points-screen-1 .undraw_to_do_re_jaef {
+  align-items: flex-end;
+  background-color: var(--blue-marguerite);
+  border-radius: 26.44px;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  left: 31px;
+  min-width: 53px;
+  padding: 15.3px 11.6px;
+  position: fixed;
+  top: 405px;
+}
+
+.assignment-final-points-screen-1 .icon-check_mark {
+  height: 22px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.assignment-final-points-screen-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 537px;
+  min-height: 754px;
+  position: absolute;
+  top: 233px;
+  width: 848px;
+}
+
+.assignment-final-points-screen-1 .undraw_check_boxes_re_v40f {
+  align-items: center;
+  background-color: var(--mercury-2);
+  border-radius: 98.75px;
+  display: flex;
+  height: 198px;
+  margin-right: 2.0px;
+  min-width: 198px;
+  padding: 0 16.5px;
+}
+
+.assignment-final-points-screen-1 .overlap-group2 {
+  align-items: flex-start;
+  background-color: #64de79;
+  border-radius: 82.29px;
+  display: flex;
+  height: 165px;
+  justify-content: flex-end;
+  min-width: 165px;
+  padding: 51.6px 40.5px;
+}
+
+.assignment-final-points-screen-1 .icon-check_mark-1 {
+  height: 60px;
+  object-fit: cover;
+  width: 70px;
+}
+
+.assignment-final-points-screen-1 .experiment-successful {
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-top: 41px;
+  min-height: 100px;
+  min-width: 848px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--big-stone);
+  border-radius: 34px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 124px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 41px;
+  min-width: 600px;
+  padding: 12.5px 142px;
+}
+
+.assignment-final-points-screen-1 .address {
+  color: var(--de-york);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 100px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .overlap-group4 {
+  height: 88px;
+  margin-right: 1.0px;
+  margin-top: 162px;
+  position: relative;
+  width: 361px;
+}
+
+.assignment-final-points-screen-1 .rectangle-112 {
+  background-color: var(--bittersweet-shimmer);
+  border-radius: 28px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 361px;
+}
+
+.assignment-final-points-screen-1 .exit {
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .rectangle-84 {
+  background: linear-gradient(252.01deg, #3dc687 21%, #231f63 172.87%);
+  border: 1px solid;
+  border-color: var(--eerie-black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 121px;
+  left: 0;
+  position: fixed;
+  top: -43px;
+  width: 1924px;
+}
+
+.assignment-final-points-screen-1 .undraw_male_avatar_323b-2 {
+  background-image: url(../img/path-373-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 63px;
+  left: 1773px;
+  position: fixed;
+  top: 9px;
+  width: 63px;
+}
+
+.assignment-final-points-screen-1 .overlap-group1 {
+  height: 53px;
+  left: 6px;
+  position: absolute;
+  top: 10px;
+  width: 54px;
+}
+
+.assignment-final-points-screen-1 .path-374 {
+  height: 42px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.assignment-final-points-screen-1 .path-375 {
+  height: 15px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .ellipse-142 {
+  background-color: var(--black);
+  border-radius: 2.8px;
+  height: 6px;
+  left: 1px;
+  opacity: 0.2;
+  position: absolute;
+  top: 30px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .path-376 {
+  height: 12px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.assignment-final-points-screen-1 .path-377 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 12px;
+}
+
+.assignment-final-points-screen-1 .path-378 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 8px;
+}
+
+.assignment-final-points-screen-1 .ellipse-143 {
+  background-color: var(--mischka);
+  border-radius: 12.28px;
+  height: 25px;
+  left: 13px;
+  position: absolute;
+  top: 4px;
+  width: 25px;
+}
+
+.assignment-final-points-screen-1 .path-379 {
+  height: 16px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 18px;
+}
+
+.assignment-final-points-screen-1 .path-380 {
+  height: 25px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 49px;
+}
+
+.assignment-final-points-screen-1 .path-381 {
+  height: 23px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.assignment-final-points-screen-1 .path-382 {
+  height: 8px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 10px;
+}
+
+.assignment-final-points-screen-1 .path-383 {
+  height: 9px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 5px;
+}
+
+.assignment-final-points-screen-1 .ellipse-141 {
+  background-color: var(--black);
+  border-radius: 2.8px;
+  height: 6px;
+  left: 7px;
+  opacity: 0.2;
+  position: absolute;
+  top: 15px;
+  width: 6px;
+}
+
+.assignment-final-points-screen-1 .the-investigation-on {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .overlap-group3 {
+  height: 668px;
+  left: 1423px;
+  position: absolute;
+  top: 105px;
+  width: 460px;
+}
+
+.assignment-final-points-screen-1 .rectangle-140 {
+  background-color: var(--tangaroa);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 12px;
+  height: 668px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 460px;
+}
+
+.assignment-final-points-screen-1 .line-16 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 460px;
+}
+
+.assignment-final-points-screen-1 .line-17 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 460px;
+}
+
+.assignment-final-points-screen-1 .user123 {
+  left: 1575px;
+  letter-spacing: 0;
+  line-height: 93px;
+  position: fixed;
+  top: 104px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .points-63 {
+  left: 1592px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .user-settings {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 265px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .account-settings {
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 310px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .experiments {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 516px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .user-progress {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 471px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .profile {
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 371px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .leaderboard {
+  cursor: pointer;
+  left: 1459px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 681px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .points {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 626px;
+  white-space: nowrap;
+}
+
+.assignment-final-points-screen-1 .topics {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 571px;
+  white-space: nowrap;
+}

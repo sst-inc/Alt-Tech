@@ -1,0 +1,54 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/630ac8864bf3ee9a2e944db0.630ac887a1dcc94b8a4abedb.33DM6SC.hcp.png");
+
+@font-face {
+  font-family: "ProximaNova-Extrabold";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/Proxima Nova Extrabold.otf") format("opentype");
+}
+@font-face {
+  font-family: "ProximaNova-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Mark Simonson - Proxima Nova Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "ProximaNova-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/FontsFree-Net-pr2.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ProximaNova-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/ProximaNova-Regular.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+html{
+  zoom: 75%;
+}

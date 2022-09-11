@@ -1,0 +1,670 @@
+:root { 
+  --baby-powder: #fcfcfc;
+  --beauty-bush: #eec2ca;
+  --big-stone: #1b2a44;
+  --big-stone-2: #182741;
+  --bittersweet-shimmer: #be5353;
+  --black: #000000;
+  --black-2: #00000026;
+  --blue-marguerite: #6c63ff;
+  --brandy: #decc93;
+  --cello: #1d355d;
+  --chambray: #365384;
+  --concrete: #f2f2f2;
+  --cosmic-cobalt: #352f99;
+  --cream-can: #f4cc61;
+  --de-york: #77c785;
+  --denim: #2e64c9;
+  --dove-gray: #707070;
+  --eerie-black: #1a181a;
+  --gallery: #f0f0f0;
+  --gallery-2: #efececad;
+  --governor-bay: #3c35ab;
+  --granny-smith-apple: #a4d994;
+  --gray-nickel: #c3c4c3;
+  --gun-powder: #3f3d56;
+  --lilac-luster: #b89aa6;
+  --mercury: #e6e6e6;
+  --mercury-2: #e4e4e4;
+  --mercury-3: #e5e5e5;
+  --mirage: #0e192d;
+  --mischka: #d0cde1;
+  --monte-carlo: #81d5be;
+  --outer-space: #2d3945;
+  --pickled-bluewood: #2e4551b9;
+  --pickled-bluewood-2: #2e4551;
+  --portage: #9a95f7;
+  --portage-2: #8f88fd;
+  --roman: #ec6461;
+  --romance: #fffdfd;
+  --romance-2: #fffcfc;
+  --romance-3: #fffdfdf5;
+  --ronchi: #f1bf42;
+  --royal-blue: #3471de;
+  --sepia-skin: #9f613d;
+  --silver: #bfbebee3;
+  --silver-2: #bfbebef5;
+  --silver-chalice: #adadb0;
+  --sonic-silver: #727272;
+  --spring-green: #eee3c1;
+  --sunglo: #e36c6c;
+  --tangaroa: #051a41;
+  --tropical-blue: #c2daee;
+  --tropical-blue-2: #c2daee64;
+  --vista-white: #fff8f8;
+  --white: #ffffff;
+  --wild-watermelon: #ff6584;
+  --zircon: #f7faff;
+ 
+  --font-size-m: 35px;
+  --font-size-s: 30px;
+  --font-size-xs: 28px;
+  --font-size-xxs: 27px;
+  --font-size-xxxs: 25px;
+  --font-size-xxxxs: 16px;
+  --font-size-xxxxxs: 15px;
+ 
+  --font-family-proxima_nova: "Proxima Nova", Helvetica;
+  --font-family-proximanova-bold: "ProximaNova-Bold", Helvetica;
+  --font-family-proximanova-extrabold: "ProximaNova-Extrabold", Helvetica;
+  --font-family-proximanova-medium: "ProximaNova-Medium", Helvetica;
+  --font-family-proximanova-regular: "ProximaNova-Regular", Helvetica;
+}
+.proximanova-medium-vista-white-28px {
+  color: var(--vista-white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-extra-extra-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-medium-silver-28px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-regular-normal-brandy-35px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-vista-white-16px {
+  color: var(--vista-white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-silver-chalice-15px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-extra-extra-bold-bittersweet-shimmer-25px {
+  color: var(--bittersweet-shimmer);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-regular-normal-bittersweet-shimmer-35px {
+  color: var(--bittersweet-shimmer);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-silver-chalice-30px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-brandy-45px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-silver-42px {
+  color: var(--silver-2);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-medium-silver-16px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-zircon-35px {
+  color: var(--zircon);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-regular-normal-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-silver-23px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-brandy-28px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-regular-normal-brandy-21px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-regular-normal-bittersweet-shimmer-21px {
+  color: var(--bittersweet-shimmer);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-romance-30px {
+  color: var(--romance);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-silver-22px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-romance-25px {
+  color: var(--romance);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-extra-extra-bold-granny-smith-apple-100px {
+  color: var(--granny-smith-apple);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-extra-bold-tropical-blue-100px {
+  color: var(--tropical-blue);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-extra-bold-beauty-bush-100px {
+  color: var(--beauty-bush);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-bold-brandy-18px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-medium-zircon-26px {
+  color: var(--zircon);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-white-4px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 4px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-silver-25px {
+  color: var(--silver-2);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-medium-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-brandy-50px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-regular-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-bold-brandy-27px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-romance-25px {
+  color: var(--romance-3);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-extra-extra-bold-brandy-100px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-medium-pickled-bluewood-25px {
+  color: var(--pickled-bluewood);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-vista-white-24px {
+  color: var(--vista-white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-extra-extra-bold-tropical-blue-62px {
+  color: var(--tropical-blue);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-extra-bold-brandy-80px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-bold-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-medium-silver-22px-2 {
+  color: var(--silver);
+  font-family: var(--font-family-proxima_nova);
+  font-size: 22px;
+}
+
+.proximanova-medium-silver-18px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-silver-35px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-regular-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-brandy-35px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-brandy-38px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-medium-pickled-bluewood-11px {
+  color: var(--pickled-bluewood);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-pickled-bluewood-12px {
+  color: var(--pickled-bluewood);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-bittersweet-shimmer-24px {
+  color: var(--bittersweet-shimmer);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-brandy-35px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-regular-normal-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-bold-white-8px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-extra-extra-bold-beauty-bush-62px {
+  color: var(--beauty-bush);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-medium-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-silver-24px {
+  color: var(--silver);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-extra-extra-bold-baby-powder-25px {
+  color: var(--baby-powder);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-medium-pickled-bluewood-15px {
+  color: var(--pickled-bluewood-2);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-bold-spring-green-15px {
+  color: var(--spring-green);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-extra-extra-bold-spring-green-56px {
+  color: var(--spring-green);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-extra-bold-granny-smith-apple-43px {
+  color: var(--granny-smith-apple);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-bold-brandy-20px {
+  color: var(--brandy);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-extra-extra-bold-tropical-blue-44px {
+  color: var(--tropical-blue);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-extra-bold-beauty-bush-42px {
+  color: var(--beauty-bush);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-bold-spring-green-150px {
+  color: var(--spring-green);
+  font-family: var(--font-family-proxima_nova);
+  font-size: 150px;
+}
+
+.proximanova-extra-extra-bold-spring-green-150px {
+  color: var(--spring-green);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-extra-extra-bold-spring-green-175px {
+  color: var(--spring-green);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 175px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.proximanova-bold-spring-green-45px {
+  color: var(--spring-green);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-bold-pickled-bluewood-50px {
+  color: var(--pickled-bluewood-2);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.proximanova-medium-pickled-bluewood-30px {
+  color: var(--pickled-bluewood-2);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-royal-blue-30px {
+  color: var(--royal-blue);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.proximanova-medium-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+html{
+  zoom: 75%;
+}

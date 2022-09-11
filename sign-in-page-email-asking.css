@@ -1,0 +1,196 @@
+/* screen - sign-in-page-email-asking */
+
+.sign-in-page-email-asking {
+  align-items: flex-start;
+  background: linear-gradient(240.34deg, #392aaa -15.72%, #a986bf 117.79%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  height: 1076px;
+  padding: 101px 141px;
+  width: 1920px;
+}
+
+.sign-in-page-email-asking .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 11px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  flex-direction: column;
+  margin-left: 916px;
+  margin-top: 1px;
+  min-height: 873px;
+  padding: 62.5px 52.5px;
+  width: 722px;
+}
+
+.sign-in-page-email-asking .flex-row {
+  align-items: center;
+  display: flex;
+  height: 196px;
+  margin-left: 0.5px;
+  min-width: 398px;
+}
+
+.sign-in-page-email-asking .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 196px;
+  width: 146px;
+}
+
+.sign-in-page-email-asking .log-in {
+  letter-spacing: 0;
+  line-height: 50px;
+  min-height: 63px;
+  white-space: nowrap;
+}
+
+.sign-in-page-email-asking .new-user {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 12px;
+  min-height: 39px;
+  min-width: 146px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.sign-in-page-email-asking .email {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 50px;
+  min-height: 32px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.sign-in-page-email-asking .create-an-account {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: 7.0px;
+  margin-left: 7px;
+  min-height: 39px;
+  min-width: 245px;
+  white-space: nowrap;
+}
+
+.sign-in-page-email-asking .line-9 {
+  height: 4px;
+  margin-top: 46px;
+  object-fit: cover;
+  width: 579px;
+}
+
+.sign-in-page-email-asking .overlap-group1 {
+  align-self: flex-end;
+  border-radius: 18px;
+  height: 53px;
+  margin-right: 36.5px;
+  margin-top: 49px;
+  position: relative;
+  width: 175px;
+}
+
+.sign-in-page-email-asking .rectangle-114 {
+  background-color: var(--denim);
+  border-radius: 18px;
+  box-shadow: 0px 3px 6px #00000029;
+  cursor: pointer;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.sign-in-page-email-asking .continue {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.sign-in-page-email-asking .flex-row-1 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 32px;
+  margin-top: 84px;
+  min-width: 615px;
+}
+
+.sign-in-page-email-asking .line-10 {
+  height: 2px;
+  margin-bottom: 7.0px;
+  object-fit: cover;
+  width: 274px;
+}
+
+.sign-in-page-email-asking .or {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 19px;
+  min-height: 32px;
+  min-width: 30px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.sign-in-page-email-asking .line-11 {
+  height: 2px;
+  margin-bottom: 7.0px;
+  margin-left: 17px;
+  object-fit: cover;
+  width: 274px;
+}
+
+.sign-in-page-email-asking .google-container {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: #707070c9;
+  border-radius: 26px;
+  display: flex;
+  height: 87px;
+  margin-left: 1.5px;
+  margin-top: 72px;
+  min-width: 608px;
+  padding: 17px 116px;
+}
+
+.sign-in-page-email-asking .google {
+  height: 52px;
+  object-fit: cover;
+  width: 52px;
+}
+
+.sign-in-page-email-asking .continue-with-google {
+  align-self: center;
+  color: #323232;
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 18px;
+  margin-top: 6.0px;
+  min-height: 32px;
+  min-width: 242px;
+  text-align: center;
+  white-space: nowrap;
+}
+.placeholderpassword{
+  padding-top: 30px;
+}
+.heighttext{
+  line-height: 30px;
+  font-size: larger;
+}

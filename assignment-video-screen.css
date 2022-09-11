@@ -1,0 +1,507 @@
+/* screen - assignment-video-screen */
+
+.assignment-video-screen {
+  align-items: flex-start;
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 1280px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.assignment-video-screen .rectangle-84 {
+  background: linear-gradient(252.01deg, #3dc687 21%, #231f63 172.87%);
+  border: 1px solid;
+  border-color: var(--eerie-black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 121px;
+  left: 0;
+  position: fixed;
+  top: -43px;
+  width: 1924px;
+  z-index: 15;
+}
+
+.assignment-video-screen .undraw_male_avatar_323b-2 {
+  background-image: url(../img/path-373-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 63px;
+  left: 1773px;
+  position: fixed;
+  top: 9px;
+  width: 63px;
+  z-index: 16;
+}
+
+.assignment-video-screen .overlap-group1 {
+  height: 53px;
+  left: 6px;
+  position: absolute;
+  top: 10px;
+  width: 54px;
+}
+
+.assignment-video-screen .path-374 {
+  height: 42px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.assignment-video-screen .path-375 {
+  height: 15px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 6px;
+}
+
+.assignment-video-screen .ellipse-142 {
+  background-color: var(--black);
+  border-radius: 2.8px;
+  height: 6px;
+  left: 1px;
+  opacity: 0.2;
+  position: absolute;
+  top: 30px;
+  width: 6px;
+}
+
+.assignment-video-screen .path-376 {
+  height: 12px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.assignment-video-screen .path-377 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 12px;
+}
+
+.assignment-video-screen .path-378 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 8px;
+}
+
+.assignment-video-screen .ellipse-143 {
+  background-color: var(--mischka);
+  border-radius: 12.28px;
+  height: 25px;
+  left: 13px;
+  position: absolute;
+  top: 4px;
+  width: 25px;
+}
+
+.assignment-video-screen .path-379 {
+  height: 16px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 18px;
+}
+
+.assignment-video-screen .path-380 {
+  height: 25px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 49px;
+}
+
+.assignment-video-screen .path-381 {
+  height: 23px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.assignment-video-screen .path-382 {
+  height: 8px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 10px;
+}
+
+.assignment-video-screen .path-383 {
+  height: 9px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 5px;
+}
+
+.assignment-video-screen .ellipse-141 {
+  background-color: var(--black);
+  border-radius: 2.8px;
+  height: 6px;
+  left: 7px;
+  opacity: 0.2;
+  position: absolute;
+  top: 15px;
+  width: 6px;
+}
+
+.assignment-video-screen .the-investigation-on {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: fixed;
+  top: 18px;
+  white-space: nowrap;
+  z-index: 18;
+}
+
+.assignment-video-screen .rectangle-107 {
+  background-color: var(--cello);
+  height: 1019px;
+  left: 0;
+  position: fixed;
+  top: 61px;
+  width: 106px;
+  z-index: 1;
+}
+
+.assignment-video-screen .undraw_home_settings_re_pkya {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 19px;
+  min-width: 108px;
+  position: fixed;
+  top: 99px;
+  z-index: 3;
+}
+
+.assignment-video-screen .path-container {
+  align-self: flex-end;
+  height: 48px;
+  margin-bottom: -0.18px;
+  position: relative;
+  width: 74px;
+}
+
+.assignment-video-screen .path-574 {
+  height: 19px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.assignment-video-screen .path-575 {
+  height: 47px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.assignment-video-screen .path-576 {
+  height: 46px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 29px;
+}
+
+.assignment-video-screen .path-577 {
+  height: 6px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 6px;
+}
+
+.assignment-video-screen .path-578 {
+  height: 5px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 6px;
+}
+
+.assignment-video-screen .path-579 {
+  height: 6px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 6px;
+}
+
+.assignment-video-screen .path-580 {
+  height: 5px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 6px;
+}
+
+.assignment-video-screen .path-581 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 74px;
+}
+
+.assignment-video-screen .path-22 {
+  height: 1px;
+  margin-bottom: 3.76px;
+  margin-left: 33px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.assignment-video-screen .video-on-the-experiment {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-right: 104.0px;
+  margin-top: 146px;
+  min-height: 100px;
+  min-width: 934px;
+  white-space: nowrap;
+  z-index: 12;
+}
+
+.assignment-video-screen .line-8 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 174px;
+  width: 106px;
+  z-index: 7;
+}
+
+.assignment-video-screen .rectangle-109 {
+  background-color: var(--black-2);
+  height: 102px;
+  left: 8px;
+  position: fixed;
+  top: 174px;
+  width: 98px;
+  z-index: 2;
+}
+
+.assignment-video-screen .rectangle-108 {
+  background-color: var(--blue-marguerite);
+  border: 1px solid;
+  height: 102px;
+  left: 0;
+  position: fixed;
+  top: 174px;
+  width: 8px;
+  z-index: 4;
+}
+
+.assignment-video-screen .undraw_online_video_re_fou2 {
+  align-items: flex-end;
+  background-color: var(--blue-marguerite);
+  border-radius: 24.49px;
+  display: flex;
+  height: 49px;
+  justify-content: flex-end;
+  left: 29px;
+  min-width: 49px;
+  padding: 13.9px 12.0px;
+  position: fixed;
+  top: 201px;
+  z-index: 5;
+}
+
+.assignment-video-screen .icon-play {
+  height: 21px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.assignment-video-screen .watch-this-video-below {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-bottom: -6px;
+  margin-right: 668.0px;
+  margin-top: 26px;
+  min-height: 44px;
+  min-width: 368px;
+  white-space: nowrap;
+  z-index: 14;
+}
+
+.assignment-video-screen .line-5 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 276px;
+  width: 106px;
+  z-index: 6;
+}
+
+.assignment-video-screen .undraw_documents_re_isxv {
+  align-items: flex-start;
+  background-image: url(../img/path-641@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  left: 27px;
+  min-height: 66px;
+  padding: 0.0px 0;
+  position: fixed;
+  top: 294px;
+  width: 51px;
+  z-index: 8;
+}
+
+.assignment-video-screen .path-642 {
+  align-self: flex-end;
+  height: 7px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.assignment-video-screen .path-64 {
+  height: 3px;
+  margin-left: 4.58px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.assignment-video-screen .path-64-1 {
+  height: 3px;
+  margin-left: 4.58px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.assignment-video-screen .path-647 {
+  height: 20px;
+  margin-left: 4.48px;
+  margin-top: 6px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.assignment-video-screen .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 378px;
+  width: 106px;
+  z-index: 9;
+}
+
+.assignment-video-screen .screenshot-2022-08-28-at-33839-pm {
+  align-self: center;
+  height: 605px;
+  margin-left: 1.0px;
+  margin-top: 71px;
+  width: 1037px;
+  z-index: 13;
+}
+
+.assignment-video-screen .undraw_to_do_re_jaef {
+  align-items: flex-end;
+  background-color: var(--blue-marguerite);
+  border-radius: 26.44px;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  left: 31px;
+  min-width: 53px;
+  padding: 15.3px 11.6px;
+  position: fixed;
+  top: 405px;
+  z-index: 11;
+}
+
+.assignment-video-screen .icon-check_mark {
+  height: 22px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.assignment-video-screen .line-7 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 484px;
+  width: 106px;
+  z-index: 10;
+}
+
+.assignment-video-screen .overlap-group2 {
+  align-self: center;
+  height: 88px;
+  margin-left: 1.0px;
+  margin-top: 106px;
+  position: relative;
+  width: 361px;
+  z-index: 17;
+}
+
+.assignment-video-screen .rectangle-112 {
+  background-color: var(--bittersweet-shimmer);
+  border-radius: 28px;
+  box-shadow: 0px 3px 6px #00000029;
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 361px;
+}
+
+.assignment-video-screen .next {
+  cursor: pointer;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

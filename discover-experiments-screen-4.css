@@ -1,0 +1,649 @@
+/* screen - discover-experiments-screen-4 */
+
+.discover-experiments-screen-4 {
+  align-items: flex-start;
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 1114px;
+  position: relative;
+  width: 1920px;
+}
+
+.discover-experiments-screen-4 .discover {
+  left: 248px;
+  letter-spacing: 0;
+  line-height: 175px;
+  position: fixed;
+  top: -30px;
+  white-space: nowrap;
+  z-index: 2;
+}
+
+.discover-experiments-screen-4 .rectangle-84 {
+  background: linear-gradient(255.82deg, #453dc6 21.29%, #231f63 146.73%);
+  border: 1px solid;
+  border-color: var(--eerie-black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 116px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 1;
+}
+
+.discover-experiments-screen-4 .rectangle-29 {
+  background-color: var(--cosmic-cobalt);
+  height: 33px;
+  left: 373px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 7;
+}
+
+.discover-experiments-screen-4 .rectangle-95 {
+  background-color: var(--governor-bay);
+  height: 33px;
+  left: 760px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 8;
+}
+
+.discover-experiments-screen-4 .group-18 {
+  display: flex;
+  height: 77px;
+  left: 88px;
+  position: fixed;
+  top: 18px;
+  width: 42px;
+  z-index: 9;
+}
+
+.discover-experiments-screen-4 .group-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 42.15px;
+}
+
+.discover-experiments-screen-4 .group-container {
+  height: 77px;
+  position: relative;
+  width: 42px;
+}
+
+.discover-experiments-screen-4 .group-4 {
+  background-image: url(../img/group-3-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 8px;
+  position: absolute;
+  top: 45px;
+  width: 29px;
+}
+
+.discover-experiments-screen-4 .group-6 {
+  background-image: url(../img/group-5-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 7px;
+  position: absolute;
+  top: 27px;
+  width: 29px;
+}
+
+.discover-experiments-screen-4 .group-8 {
+  background-image: url(../img/group-7-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.discover-experiments-screen-4 .group-10 {
+  background-image: url(../img/group-9-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.discover-experiments-screen-4 .group-12 {
+  background-image: url(../img/group-11-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 16px;
+}
+
+.discover-experiments-screen-4 .group-14 {
+  background-image: url(../img/group-13-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 26px;
+  position: absolute;
+  top: 42px;
+  width: 16px;
+}
+
+.discover-experiments-screen-4 .group-16 {
+  background-image: url(../img/group-15-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 16px;
+}
+
+.discover-experiments-screen-4 .undraw_male_avatar_323b-2 {
+  background-image: url(../img/path-373-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 76px;
+  left: 1775px;
+  position: fixed;
+  top: 20px;
+  width: 76px;
+  z-index: 10;
+}
+
+.discover-experiments-screen-4 .overlap-group1 {
+  height: 64px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 65px;
+}
+
+.discover-experiments-screen-4 .path-374 {
+  height: 51px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.discover-experiments-screen-4 .path-375 {
+  height: 18px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 7px;
+}
+
+.discover-experiments-screen-4 .ellipse-142 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 36px;
+  width: 7px;
+}
+
+.discover-experiments-screen-4 .path-376 {
+  height: 15px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.discover-experiments-screen-4 .path-377 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 14px;
+}
+
+.discover-experiments-screen-4 .path-378 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 10px;
+}
+
+.discover-experiments-screen-4 .ellipse-143 {
+  background-color: var(--mischka);
+  border-radius: 14.73px;
+  height: 29px;
+  left: 16px;
+  position: absolute;
+  top: 5px;
+  width: 29px;
+}
+
+.discover-experiments-screen-4 .path-379 {
+  height: 19px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 21px;
+}
+
+.discover-experiments-screen-4 .path-380 {
+  height: 30px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 59px;
+}
+
+.discover-experiments-screen-4 .path-381 {
+  height: 27px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.discover-experiments-screen-4 .path-382 {
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 12px;
+}
+
+.discover-experiments-screen-4 .path-383 {
+  height: 11px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 6px;
+}
+
+.discover-experiments-screen-4 .ellipse-141 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 8px;
+  opacity: 0.2;
+  position: absolute;
+  top: 18px;
+  width: 7px;
+}
+
+.discover-experiments-screen-4 .component-1-16 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 530px;
+  position: fixed;
+  top: 45px;
+  transition: all 0.2s ease;
+  width: 249px;
+  z-index: 3;
+}
+
+.discover-experiments-screen-4 .component-1-16:hover {
+  background-color: ##C78B8B
+}
+
+.discover-experiments-screen-4 .your-experiments {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 249px;
+}
+
+.discover-experiments-screen-4 .component-2-19 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 930px;
+  position: fixed;
+  top: 45px;
+  width: 184px;
+  z-index: 4;
+}
+
+.discover-experiments-screen-4 .leaderboard {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.discover-experiments-screen-4 .polygon-5 {
+  height: 15px;
+  left: 381px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 5;
+}
+
+.discover-experiments-screen-4 .polygon-8 {
+  height: 15px;
+  left: 783px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 6;
+}
+
+.discover-experiments-screen-4 .user-progress {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-bottom: -1px;
+  margin-left: 88px;
+  margin-top: 174px;
+  min-height: 39px;
+  white-space: nowrap;
+  z-index: 11;
+}
+
+.discover-experiments-screen-4 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  margin-left: 120px;
+  margin-top: 6px;
+  min-width: 716px;
+  z-index: 12;
+}
+
+.discover-experiments-screen-4 .experiments {
+  letter-spacing: 0;
+  line-height: 100px;
+  min-height: 44px;
+  min-width: 202px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .topics {
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-left: 139px;
+  min-height: 44px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .points {
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-left: 179px;
+  min-height: 44px;
+  min-width: 96px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .overlap-group3 {
+  align-self: center;
+  height: 11px;
+  margin-right: 42.0px;
+  margin-top: 37px;
+  position: relative;
+  width: 1701px;
+  z-index: 13;
+}
+
+.discover-experiments-screen-4 .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1701px;
+}
+
+.discover-experiments-screen-4 .rectangle-80 {
+  background-color: var(--bittersweet-shimmer);
+  border: 1px solid;
+  border-radius: 8px;
+  height: 11px;
+  left: 372px;
+  position: absolute;
+  top: 0;
+  width: 98px;
+}
+
+.discover-experiments-screen-4 .group-19 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 588px;
+  margin-right: 50.5px;
+  margin-top: 32px;
+  min-width: 1548px;
+  z-index: 14;
+}
+
+.discover-experiments-screen-4 .overlap-group2 {
+  height: 598px;
+  margin-bottom: -85.5px;
+  position: relative;
+  width: 1548px;
+}
+
+.discover-experiments-screen-4 .rectangle-1 {
+  background-color: var(--monte-carlo);
+  height: 513px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1538px;
+}
+
+.discover-experiments-screen-4 .rectangle-26 {
+  background-color: var(--big-stone);
+  border: 1px solid;
+  border-color: var(--monte-carlo);
+  border-radius: 28px;
+  height: 513px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 513px;
+}
+
+.discover-experiments-screen-4 .rectangle-34 {
+  background: linear-gradient(224.96deg, #ffbef8 5.36%, #312d73 200.26%);
+  border-radius: 50px;
+  height: 82px;
+  left: 114px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  top: 256px;
+  width: 284px;
+}
+
+.discover-experiments-screen-4 .rectangle-27 {
+  background-color: var(--big-stone);
+  border: 1px solid;
+  border-color: var(--monte-carlo);
+  border-radius: 28px;
+  height: 513px;
+  left: 513px;
+  position: absolute;
+  top: 0;
+  width: 512px;
+}
+
+.discover-experiments-screen-4 .rectangle-28 {
+  background-color: var(--big-stone);
+  border: 1px solid;
+  border-color: var(--monte-carlo);
+  border-radius: 28px;
+  height: 513px;
+  left: 1025px;
+  position: absolute;
+  top: 0;
+  width: 513px;
+}
+
+.discover-experiments-screen-4 .biology {
+  color: var(--granny-smith-apple);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 86px;
+  font-weight: 800;
+  left: 619px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  top: 114px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .experiments-1 {
+  left: 148px;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: absolute;
+  top: 255px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .physics {
+  color: var(--tropical-blue);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 86px;
+  font-weight: 800;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  top: 114px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .title {
+  color: var(--tropical-blue-2);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 380px;
+  font-weight: 800;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  top: 114px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .x2nd {
+  color: var(--tropical-blue-2);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 330px;
+  font-weight: 800;
+  left: 503px;
+  letter-spacing: -29.70px;
+  line-height: 86px;
+  position: absolute;
+  top: 140px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .x3rd {
+  color: var(--tropical-blue-2);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 375px;
+  font-weight: 800;
+  left: 1018px;
+  letter-spacing: -30.00px;
+  line-height: 86px;
+  position: absolute;
+  top: 140px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .rectangle-35 {
+  background: linear-gradient(224.89deg, #ffbef8 -15.96%, #312d73 200.37%);
+  border-radius: 50px;
+  height: 82px;
+  left: 627px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  top: 256px;
+  width: 284px;
+}
+
+.discover-experiments-screen-4 .experiments-2 {
+  left: 660px;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: absolute;
+  top: 255px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .chemistry {
+  color: var(--beauty-bush);
+  font-family: var(--font-family-proximanova-extrabold);
+  font-size: 86px;
+  font-weight: 800;
+  left: 1078px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  top: 114px;
+  white-space: nowrap;
+}
+
+.discover-experiments-screen-4 .rectangle-76 {
+  background: linear-gradient(224.89deg, #ffbef8 -15.96%, #312d73 200.37%);
+  border-radius: 50px;
+  height: 82px;
+  left: 1140px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  top: 256px;
+  width: 284px;
+}
+
+.discover-experiments-screen-4 .experiments-3 {
+  left: 1172px;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: absolute;
+  top: 255px;
+  white-space: nowrap;
+}

@@ -1,0 +1,1043 @@
+/* screen - biology-filter-1 */
+
+.biology-filter-1 {
+  align-items: flex-end;
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 1499px;
+  position: relative;
+  width: 1920px;
+}
+
+.biology-filter-1 .discover {
+  left: 248px;
+  letter-spacing: 0;
+  line-height: 175px;
+  position: fixed;
+  top: -30px;
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.biology-filter-1 .rectangle-84 {
+  background: linear-gradient(255.82deg, #453dc6 21.29%, #231f63 146.73%);
+  border: 1px solid;
+  border-color: var(--eerie-black);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 116px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 2;
+}
+
+.biology-filter-1 .rectangle-29 {
+  background-color: var(--cosmic-cobalt);
+  height: 33px;
+  left: 373px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 8;
+}
+
+.biology-filter-1 .rectangle-95 {
+  background-color: var(--governor-bay);
+  height: 33px;
+  left: 760px;
+  position: fixed;
+  top: 18px;
+  width: 71px;
+  z-index: 9;
+}
+
+.biology-filter-1 .group-18 {
+  display: flex;
+  height: 77px;
+  left: 88px;
+  position: fixed;
+  top: 18px;
+  width: 42px;
+  z-index: 12;
+}
+
+.biology-filter-1 .group-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 42.15px;
+}
+
+.biology-filter-1 .group-container {
+  height: 77px;
+  position: relative;
+  width: 42px;
+}
+
+.biology-filter-1 .group-4 {
+  background-image: url(../img/group-3-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 8px;
+  position: absolute;
+  top: 45px;
+  width: 29px;
+}
+
+.biology-filter-1 .group-6 {
+  background-image: url(../img/group-5-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 7px;
+  position: absolute;
+  top: 27px;
+  width: 29px;
+}
+
+.biology-filter-1 .group-8 {
+  background-image: url(../img/group-7-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.biology-filter-1 .group-10 {
+  background-image: url(../img/group-9-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.biology-filter-1 .group-12 {
+  background-image: url(../img/group-11-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 16px;
+}
+
+.biology-filter-1 .group-14 {
+  background-image: url(../img/group-13-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 26px;
+  position: absolute;
+  top: 42px;
+  width: 16px;
+}
+
+.biology-filter-1 .group-16 {
+  background-image: url(../img/group-15-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 16px;
+}
+
+.biology-filter-1 .undraw_male_avatar_323b-2 {
+  background-image: url(../img/path-373-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 76px;
+  left: 1775px;
+  position: fixed;
+  top: 20px;
+  width: 76px;
+  z-index: 10;
+}
+
+.biology-filter-1 .overlap-group {
+  height: 64px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 65px;
+}
+
+.biology-filter-1 .path-374 {
+  height: 51px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.biology-filter-1 .path-375 {
+  height: 18px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 7px;
+}
+
+.biology-filter-1 .ellipse-142 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 36px;
+  width: 7px;
+}
+
+.biology-filter-1 .path-376 {
+  height: 15px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.biology-filter-1 .path-377 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 14px;
+}
+
+.biology-filter-1 .path-378 {
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 10px;
+}
+
+.biology-filter-1 .ellipse-143 {
+  background-color: var(--mischka);
+  border-radius: 14.73px;
+  height: 29px;
+  left: 16px;
+  position: absolute;
+  top: 5px;
+  width: 29px;
+}
+
+.biology-filter-1 .path-379 {
+  height: 19px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 21px;
+}
+
+.biology-filter-1 .path-380 {
+  height: 30px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 59px;
+}
+
+.biology-filter-1 .path-381 {
+  height: 27px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.biology-filter-1 .path-382 {
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 12px;
+}
+
+.biology-filter-1 .path-383 {
+  height: 11px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 6px;
+}
+
+.biology-filter-1 .ellipse-141 {
+  background-color: var(--black);
+  border-radius: 3.36px;
+  height: 7px;
+  left: 8px;
+  opacity: 0.2;
+  position: absolute;
+  top: 18px;
+  width: 7px;
+}
+
+.biology-filter-1 .component-1-23 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 530px;
+  position: fixed;
+  top: 45px;
+  transition: all 0.2s ease;
+  width: 249px;
+  z-index: 4;
+}
+
+.biology-filter-1 .component-1-23:hover {
+  background-color: ##C78B8B
+}
+
+.biology-filter-1 .your-experiments {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 249px;
+}
+
+.biology-filter-1 .component-2-26 {
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 930px;
+  position: fixed;
+  top: 45px;
+  width: 184px;
+  z-index: 5;
+}
+
+.biology-filter-1 .leaderboard {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 175px;
+  margin-bottom: 70.5px;
+  margin-right: -2px;
+  margin-top: -72.5px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.biology-filter-1 .polygon-5 {
+  height: 15px;
+  left: 381px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 6;
+}
+
+.biology-filter-1 .polygon-8 {
+  height: 15px;
+  left: 783px;
+  object-fit: cover;
+  position: fixed;
+  top: 48px;
+  width: 26px;
+  z-index: 7;
+}
+
+.biology-filter-1 .user123 {
+  left: 1575px;
+  letter-spacing: 0;
+  line-height: 93px;
+  position: fixed;
+  top: 104px;
+  white-space: nowrap;
+  z-index: 13;
+}
+
+.biology-filter-1 .overlap-group4 {
+  align-self: center;
+  height: 703px;
+  margin-left: 51.55px;
+  margin-top: 105px;
+  position: relative;
+  width: 1796px;
+  z-index: 1;
+}
+
+.biology-filter-1 .overlap-group3 {
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 114px;
+  width: 351px;
+}
+
+.biology-filter-1 .biology {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .experiments {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 88px;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .overlap-group2 {
+  height: 668px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1795px;
+}
+
+.biology-filter-1 .all-experiments {
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 308px;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .finished-experiments {
+  left: 402px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 308px;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 1701px;
+}
+
+.biology-filter-1 .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 394px;
+  width: 1701px;
+}
+
+.biology-filter-1 .rectangle-80 {
+  background-color: var(--bittersweet-shimmer);
+  border: 1px solid;
+  border-radius: 8px;
+  height: 11px;
+  left: 402px;
+  position: absolute;
+  top: 389px;
+  width: 327px;
+}
+
+.biology-filter-1 .newest {
+  left: 1432px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 308px;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .polygon-7 {
+  height: 15px;
+  left: 1556px;
+  object-fit: cover;
+  position: absolute;
+  top: 351px;
+  width: 26px;
+}
+
+.biology-filter-1 .rectangle-81 {
+  background-color: var(--mirage);
+  height: 33px;
+  left: 1552px;
+  position: absolute;
+  top: 320px;
+  width: 71px;
+}
+
+.biology-filter-1 .rectangle-82 {
+  background-color: var(--white);
+  border-radius: 13px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 114px;
+  left: 1354px;
+  position: absolute;
+  top: 384px;
+  width: 228px;
+}
+
+.biology-filter-1 .newest-1 {
+  left: 1368px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 366px;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .name-a-z {
+  left: 1368px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 417px;
+  white-space: nowrap;
+}
+
+.biology-filter-1 .rectangle-140 {
+  background-color: var(--tangaroa);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 12px;
+  height: 668px;
+  left: 1335px;
+  position: absolute;
+  top: 0;
+  width: 460px;
+}
+
+.biology-filter-1 .line-16 {
+  height: 1px;
+  left: 1335px;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 460px;
+}
+
+.biology-filter-1 .line-17 {
+  height: 1px;
+  left: 1335px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 460px;
+}
+
+.biology-filter-1 .undraw_stars_re_6je7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 717px;
+  min-height: 228px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 475px;
+  width: 309px;
+}
+
+.biology-filter-1 .ellipse-235 {
+  background-color: var(--mercury);
+  border-radius: 6.31px;
+  height: 13px;
+  margin-right: 69.7px;
+  width: 13px;
+}
+
+.biology-filter-1 .overlap-group1 {
+  height: 209px;
+  margin-left: 0;
+  margin-top: 6px;
+  position: relative;
+  width: 309px;
+}
+
+.biology-filter-1 .path-681 {
+  height: 209px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 246px;
+}
+
+.biology-filter-1 .path-682 {
+  height: 47px;
+  left: 151px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 54px;
+}
+
+.biology-filter-1 .ellipse-211 {
+  background-color: var(--concrete);
+  border-radius: 32.14px;
+  height: 64px;
+  left: 50px;
+  position: absolute;
+  top: 40px;
+  width: 64px;
+}
+
+.biology-filter-1 .path-683 {
+  height: 59px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 59px;
+}
+
+.biology-filter-1 .ellipse-212 {
+  background-color: var(--mercury-2);
+  border-radius: 9.03px;
+  height: 18px;
+  left: 67px;
+  position: absolute;
+  top: 51px;
+  width: 18px;
+}
+
+.biology-filter-1 .path-684 {
+  height: 16px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 13px;
+}
+
+.biology-filter-1 .ellipse-213 {
+  background-color: var(--mercury-2);
+  border-radius: 3.25px;
+  height: 6px;
+  left: 88px;
+  position: absolute;
+  top: 76px;
+  width: 6px;
+}
+
+.biology-filter-1 .path-685 {
+  height: 4px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 6px;
+}
+
+.biology-filter-1 .path-686 {
+  height: 13px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 6px;
+}
+
+.biology-filter-1 .ellipse-214 {
+  background-color: var(--blue-marguerite);
+  border-radius: 1.34px;
+  height: 3px;
+  left: 218px;
+  position: absolute;
+  top: 55px;
+  width: 3px;
+}
+
+.biology-filter-1 .ellipse-215 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 206px;
+  position: absolute;
+  top: 24px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-216 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 81px;
+  position: absolute;
+  top: 177px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-217 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 210px;
+  position: absolute;
+  top: 100px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-218 {
+  background-color: var(--blue-marguerite);
+  border-radius: 1.34px;
+  height: 3px;
+  left: 109px;
+  position: absolute;
+  top: 106px;
+  width: 3px;
+}
+
+.biology-filter-1 .ellipse-219 {
+  background-color: var(--blue-marguerite);
+  border-radius: 6.31px;
+  height: 13px;
+  left: 56px;
+  position: absolute;
+  top: 125px;
+  width: 13px;
+}
+
+.biology-filter-1 .ellipse-220 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 96px;
+  position: absolute;
+  top: 138px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-221 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 175px;
+  position: absolute;
+  top: 16px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-222 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 129px;
+  position: absolute;
+  top: 182px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-223 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 117px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-224 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 137px;
+  position: absolute;
+  top: 61px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-225 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 106px;
+  position: absolute;
+  top: 154px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-226 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 198px;
+  position: absolute;
+  top: 159px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-227 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 157px;
+  position: absolute;
+  top: 114px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-228 {
+  background-color: var(--gallery);
+  border-radius: 0.78px;
+  height: 2px;
+  left: 178px;
+  position: absolute;
+  top: 61px;
+  width: 2px;
+}
+
+.biology-filter-1 .ellipse-229 {
+  background-color: var(--wild-watermelon);
+  border-radius: 1.55px;
+  height: 3px;
+  left: 214px;
+  position: absolute;
+  top: 85px;
+  width: 3px;
+}
+
+.biology-filter-1 .ellipse-230 {
+  background-color: var(--wild-watermelon);
+  border-radius: 1.55px;
+  height: 3px;
+  left: 152px;
+  position: absolute;
+  top: 34px;
+  width: 3px;
+}
+
+.biology-filter-1 .ellipse-231 {
+  background-color: var(--wild-watermelon);
+  border-radius: 1.55px;
+  height: 3px;
+  left: 152px;
+  position: absolute;
+  top: 141px;
+  width: 3px;
+}
+
+.biology-filter-1 .path-687 {
+  height: 7px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 151px;
+  width: 7px;
+}
+
+.biology-filter-1 .path-688 {
+  height: 91px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 83px;
+  width: 292px;
+}
+
+.biology-filter-1 .path-695 {
+  height: 60px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 299px;
+}
+
+.biology-filter-1 .ellipse-234 {
+  background-color: var(--blue-marguerite);
+  border-radius: 6.31px;
+  height: 13px;
+  left: 296px;
+  position: absolute;
+  top: 132px;
+  width: 13px;
+}
+
+.biology-filter-1 .ellipse-236 {
+  background-color: var(--mercury);
+  border-radius: 6.31px;
+  height: 13px;
+  left: 1px;
+  position: absolute;
+  top: 131px;
+  width: 13px;
+}
+
+.biology-filter-1 .ellipse-237 {
+  background-color: var(--wild-watermelon);
+  border-radius: 3.86px;
+  height: 8px;
+  left: 42px;
+  position: absolute;
+  top: 17px;
+  width: 8px;
+}
+
+.biology-filter-1 .ellipse-238 {
+  background-color: var(--wild-watermelon);
+  border-radius: 3.86px;
+  height: 8px;
+  left: 24px;
+  position: absolute;
+  top: 163px;
+  width: 8px;
+}
+
+.biology-filter-1 .ellipse-239 {
+  background-color: var(--wild-watermelon);
+  border-radius: 3.86px;
+  height: 8px;
+  left: 288px;
+  position: absolute;
+  top: 100px;
+  width: 8px;
+}
+
+.biology-filter-1 .ellipse-240 {
+  background-color: var(--mercury);
+  border-radius: 6.31px;
+  height: 13px;
+  left: 227px;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.biology-filter-1 .points-63 {
+  left: 1592px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 178px;
+  white-space: nowrap;
+  z-index: 14;
+}
+
+.biology-filter-1 .user-settings {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 265px;
+  white-space: nowrap;
+  z-index: 15;
+}
+
+.biology-filter-1 .account-settings {
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 310px;
+  white-space: nowrap;
+  z-index: 16;
+}
+
+.biology-filter-1 .profile {
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 371px;
+  white-space: nowrap;
+  z-index: 19;
+}
+
+.biology-filter-1 .user-progress {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: fixed;
+  top: 471px;
+  white-space: nowrap;
+  z-index: 18;
+}
+
+.biology-filter-1 .experiments-1 {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 516px;
+  white-space: nowrap;
+  z-index: 17;
+}
+
+.biology-filter-1 .topics {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 571px;
+  white-space: nowrap;
+  z-index: 22;
+}
+
+.biology-filter-1 .points {
+  cursor: pointer;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 626px;
+  white-space: nowrap;
+  z-index: 21;
+}
+
+.biology-filter-1 .leaderboard-1 {
+  cursor: pointer;
+  left: 1459px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: fixed;
+  top: 681px;
+  white-space: nowrap;
+  z-index: 20;
+}
+
+.biology-filter-1 .oops-its-empty {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 77px;
+  margin-bottom: -33px;
+  margin-left: 2.0px;
+  margin-top: 1px;
+  min-height: 44px;
+  min-width: 244px;
+  white-space: nowrap;
+  z-index: 11;
+}

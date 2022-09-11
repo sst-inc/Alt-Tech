@@ -1,0 +1,294 @@
+/* screen - creating-an-account-page */
+
+.creating-an-account-page {
+  align-items: flex-start;
+  background: linear-gradient(240.34deg, #aa2a4c -15.72%, #a986bf 117.79%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  height: 1076px;
+  padding: 66px 141px;
+  width: 1920px;
+}
+
+.creating-an-account-page .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 11px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  flex-direction: column;
+  margin-left: 916px;
+  margin-top: 15px;
+  min-height: 929px;
+  padding: 54px 45px;
+  width: 722px;
+}
+
+.creating-an-account-page .create-an-account {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 7px;
+  margin-top: 8px;
+  min-height: 63px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 39px;
+  margin-left: 8px;
+  margin-top: 13px;
+  min-width: 441px;
+}
+
+.creating-an-account-page .already-have-an-account {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 39px;
+  min-width: 344px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .sign-in {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 4px;
+  min-height: 39px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .sign-up-with-google {
+  color: var(--pickled-bluewood-2);
+  font-family: var(--font-family-proximanova-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 7px;
+  margin-top: 46px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .overlap-group1 {
+  border-radius: 32.5px;
+  height: 65px;
+  margin-left: 8px;
+  margin-top: 23px;
+  position: relative;
+  width: 65px;
+}
+
+.creating-an-account-page .google {
+  height: 41px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 41px;
+}
+
+.creating-an-account-page .ellipse-210 {
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 32.5px;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.creating-an-account-page .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 34px;
+  margin-top: 24px;
+  min-width: 615px;
+}
+
+.creating-an-account-page .overlap-group3 {
+  height: 28px;
+  position: relative;
+  width: 274px;
+}
+
+.creating-an-account-page .ellipse-209 {
+  background-color: var(--white);
+  border-radius: 14px;
+  height: 28px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.creating-an-account-page .line-10 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 274px;
+}
+
+.creating-an-account-page .or {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 19px;
+  min-height: 32px;
+  min-width: 30px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .line-11 {
+  align-self: center;
+  height: 2px;
+  margin-bottom: 4.5px;
+  margin-left: 17px;
+  object-fit: cover;
+  width: 274px;
+}
+
+.creating-an-account-page .email-address {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 33px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .line-9 {
+  height: 1px;
+  margin-left: 12px;
+  margin-top: 46px;
+  object-fit: cover;
+  width: 579px;
+}
+
+.creating-an-account-page .st-name-container {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  margin-left: 1px;
+  margin-top: 62px;
+  min-width: 436px;
+}
+
+.creating-an-account-page .first-name {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 32px;
+  min-width: 122px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .last-name {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 195px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .line-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 9px;
+  margin-top: 37px;
+  min-width: 579px;
+}
+
+.creating-an-account-page .line-13 {
+  height: 1px;
+  object-fit: cover;
+  width: 270px;
+}
+
+.creating-an-account-page .line-14 {
+  height: 1px;
+  margin-left: 39px;
+  object-fit: cover;
+  width: 270px;
+}
+
+.creating-an-account-page .password {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 60px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .line-15 {
+  height: 1px;
+  margin-left: 12px;
+  margin-top: 37px;
+  object-fit: cover;
+  width: 579px;
+}
+
+.creating-an-account-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 60px;
+  margin-left: 1px;
+  margin-top: 36px;
+  min-width: 587px;
+}
+
+.creating-an-account-page .by-clicking-create-a {
+  color: var(--denim);
+  font-family: var(--font-family-proxima_nova);
+  font-size: var(--font-size-xxxxxs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 38px;
+  min-width: 372px;
+  white-space: nowrap;
+}
+
+.creating-an-account-page .span1 {
+  font-family: var(--font-family-proximanova-medium);
+}
+
+.creating-an-account-page .overlap-group2 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--denim);
+  border-radius: 18px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  margin-left: 19px;
+  min-width: 196px;
+  padding: 6.5px 10px;
+}
+
+.creating-an-account-page .create-account {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 32px;
+  min-width: 174px;
+  text-align: center;
+  white-space: nowrap;
+}
+.placeholderpassword{
+  padding-top: 30px;
+}
+.heighttext{
+  line-height: 30px;
+  font-size: larger;
+}
+.showpassword{
+  width:20px;
+  height:20px;
+}
